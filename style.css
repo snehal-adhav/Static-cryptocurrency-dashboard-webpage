@@ -1,0 +1,156 @@
+.header
+{
+    border: 1px solid black;
+    padding-left:10px;
+
+}
+.Balance 
+{
+	margin-top:5px;	
+	padding-left: 10px;
+	width: 30%;
+	display: inline-block;
+    background: white;
+    height: 200px;
+
+
+}
+
+.floting
+{ 
+	padding-top: 5px;
+	display: inline-block;
+	padding-right: 20px;
+	
+}
+.mydiv
+{
+	border: 1px solid black;
+	padding: 20%;
+}
+
+.myclass
+{
+    
+	position: absolute; top:11%; right:30%;
+	
+
+}
+.mydemo
+{
+	
+    
+    display: flex;
+    width: 300px;
+	
+}
+.demo1
+{
+	 
+	padding-left:40px; 
+}
+
+.demo2
+{
+	 
+	padding-left:40px; 
+}
+.demo p
+{
+	display: inline-block;
+	padding-right: 55px;
+
+}
+.demo1 p
+{
+	display: inline-block;
+	padding-right: 53px;
+}
+.demo2 p
+{
+	display: inline-block;
+	padding-right: 53px;
+}
+.demo3 div
+{
+	display: inline-block;
+	padding-right: 50px;
+
+}
+.demo3 span
+{
+	 
+	 padding:40px;
+}
+.abc 
+{
+	border: 1px solid black;
+	float: left;
+	width: 70px;
+	height:880px;
+}
+.abc i
+{
+	padding-top: 150px;
+	padding-left: 20px;
+}
+.wrap
+{
+	padding-left: 100px
+}
+.sidebar
+{
+	border: 1px solid black;
+	width:250px;
+	float: right;
+	height: 880px
+	
+}
+.sidebar img
+{
+	
+	border-radius:70%;
+	height:70px;
+	width: 70px;
+	padding: 20px;
+}
+.sidebar div
+{
+
+	position: absolute;top:30px;right:15px;
+		
+}
+.RecentActi 
+{
+   padding-right:40px;
+   padding-top: 80px;
+}
+.email img
+{
+    
+	padding-top: 500px;
+	padding-right: 30%;
+	height: 250px;
+	width: 230px;
+	border-radius:15%;
+	
+
+}
+.Exchange select option
+{
+	padding-top: 10000px;
+}
+button
+{
+	background-color: transparent;
+	color: purple;
+	border:solid purple;
+	border-radius: 4px;
+	height:30px;
+}
+
+@media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
+  }
+}
